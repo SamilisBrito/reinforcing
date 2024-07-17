@@ -1,0 +1,14 @@
+.content{
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.content > * {
+  /* border: 1px solid var(--primary); */
+  background-color: #101705;
+  padding: 1.25rem;
+  border-radius: 0.5rem;
+  margin-bottom: 1.875rem;
+}
